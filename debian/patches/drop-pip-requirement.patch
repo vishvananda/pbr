@@ -1,0 +1,4 @@
+--- a/requirements.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-pip>=1.0
